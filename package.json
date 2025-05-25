@@ -11,7 +11,7 @@
   "dependencies": {
     "@moonpay/moonpay-js": "^0.6.3",
     "@moonpay/moonpay-react": "^1.8.4",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0",
     "next": "15.1.6"
   },
