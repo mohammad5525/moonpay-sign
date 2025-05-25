@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@moonpay/moonpay-js": "^0.6.3",
+    "@moonpay/moonpay-js": "^0.6.6",
     "@moonpay/moonpay-react": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
